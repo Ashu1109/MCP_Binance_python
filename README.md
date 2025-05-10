@@ -16,4 +16,4 @@ python3 main.py
 
 ## Screenshot
 
-![Application Screenshot](./Screenshot%202025-05-10%20at%201.07.34%20PM.png)
+![Application Screenshot](./Screenshot 2025-05-10 at 1.07.34 PM.png)
